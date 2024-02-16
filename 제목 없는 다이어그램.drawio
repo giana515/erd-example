@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T06:07:40.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="d7sgaKEpilO9_YQ_Y8pS" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-16T06:08:56.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4uQF8t87VhgiOjYX0BvF" version="23.1.5" type="github" pages="3">
   <diagram name="학사관리" id="9KBe2_B9uGP1ROqAsY6q">
     <mxGraphModel dx="186" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -868,10 +868,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
-    <mxGraphModel dx="1155" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2520" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ByHm02V5D9FjWq7toGUl-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="730" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="0cmVnBsUpdU1NH-fXgzG-1" value="소비자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="30" height="60" as="geometry" />
         </mxCell>
