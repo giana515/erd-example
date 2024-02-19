@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T08:54:45.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8xkrSBlqyTC-EesN5Bpm" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-19T08:55:25.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3WQ7UtbcL3WUqFdTDTGy" version="23.1.5" type="github" pages="3">
   <diagram name="학사관리" id="9KBe2_B9uGP1ROqAsY6q">
     <mxGraphModel dx="21" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -868,7 +868,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
-    <mxGraphModel dx="859" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1795" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -973,7 +973,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H6osIf0JW4fTCXzBXY5M-15" value="헤택" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2860" y="1430" width="120" height="40" as="geometry" />
+          <mxGeometry x="2856" y="1430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H6osIf0JW4fTCXzBXY5M-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H6osIf0JW4fTCXzBXY5M-16" target="H6osIf0JW4fTCXzBXY5M-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1398,7 +1398,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H6osIf0JW4fTCXzBXY5M-149" value="프로모션 생성" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2590" y="1710" width="120" height="40" as="geometry" />
+          <mxGeometry x="2572" y="1711" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p7cG7iM85zrI-NeAm-PF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H6osIf0JW4fTCXzBXY5M-158" target="p7cG7iM85zrI-NeAm-PF-23">
           <mxGeometry relative="1" as="geometry" />
