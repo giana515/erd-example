@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T09:09:03.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4wvkdAALB5fhRL06qQy2" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-19T09:09:13.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Cbz0j8rVS6b3Izm0ssuw" version="23.1.5" type="github" pages="3">
   <diagram name="학사관리" id="9KBe2_B9uGP1ROqAsY6q">
     <mxGraphModel dx="21" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1409,7 +1409,7 @@
           <mxGeometry x="2570" y="5330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p7cG7iM85zrI-NeAm-PF-10" value="프로모션 단건 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="5045" width="120" height="40" as="geometry" />
+          <mxGeometry x="2570" y="4970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p7cG7iM85zrI-NeAm-PF-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H6osIf0JW4fTCXzBXY5M-147" target="p7cG7iM85zrI-NeAm-PF-10">
           <mxGeometry relative="1" as="geometry">
