@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T04:43:23.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tHwca-3DRY5DOr26RUyA" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-20T05:40:54.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eYmx40XQAixbBi516Vra" version="23.1.5" type="github" pages="3">
   <diagram name="학사관리" id="9KBe2_B9uGP1ROqAsY6q">
     <mxGraphModel dx="447" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -868,14 +868,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
-    <mxGraphModel dx="1938" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="10980" dy="5653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p7cG7iM85zrI-NeAm-PF-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="3473" width="420" height="1747" as="geometry" />
         </mxCell>
-        <mxCell id="ByHm02V5D9FjWq7toGUl-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="ByHm02V5D9FjWq7toGUl-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="2273" y="600" width="2167" height="5280" as="geometry" />
         </mxCell>
         <mxCell id="6jSKcdkERbiMxTG8cpOf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="H6osIf0JW4fTCXzBXY5M-3" target="jqs_O63EGknz55BAhOZx-54">
