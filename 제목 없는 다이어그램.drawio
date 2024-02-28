@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T08:37:53.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="F_NdrX3lv5fKhbKKlx8S" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T08:38:40.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JMpg71CdeLwUTOyNbEnT" version="23.1.7" type="github" pages="3">
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
     <mxGraphModel dx="4635" dy="4240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KPyCKno11Oow5wSsMNFO-503" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4450" y="3256.25" width="5680" height="3809.5" as="geometry" />
+          <mxGeometry x="4450" y="3350" width="5680" height="3580" as="geometry" />
         </mxCell>
         <mxCell id="hsMM7AR0Jzlbo1RgUBKi-1261" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20050" y="3478.5" width="420" height="1747" as="geometry" />
