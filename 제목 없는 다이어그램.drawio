@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T08:14:05.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KTAbCWqfI9X2xwRRXkzH" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T08:22:24.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LAubBhTr2UzkI0CoxK4J" version="23.1.7" type="github" pages="3">
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
-    <mxGraphModel dx="12870" dy="8480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="-1247" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KPyCKno11Oow5wSsMNFO-503" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="4430" y="3238.25" width="5680" height="3809.5" as="geometry" />
+        </mxCell>
         <mxCell id="hsMM7AR0Jzlbo1RgUBKi-1261" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20050" y="3478.5" width="420" height="1747" as="geometry" />
         </mxCell>
@@ -2651,6 +2654,18 @@
         </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-492" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;사용자&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="7224.75" y="5337" width="60.5" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-500" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;사용자 유스케이스&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4660" y="3424.5" width="850" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-501" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7250" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-504" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;프로모션&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=10;" vertex="1" parent="1">
+          <mxGeometry x="14130" y="4265.5" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-27" target="KPyCKno11Oow5wSsMNFO-487">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
