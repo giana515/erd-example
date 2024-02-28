@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T06:56:53.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rjPK_dAGwyp06xc3oZVs" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-28T07:06:37.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-8odfIPJH907bUkIKiwJ" version="23.1.7" type="github" pages="3">
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
-    <mxGraphModel dx="1432" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2995" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2331,14 +2331,13 @@
         <mxCell id="KPyCKno11Oow5wSsMNFO-2" value="검색 조건 입력O" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5700" y="1610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KPyCKno11Oow5wSsMNFO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-3" target="KPyCKno11Oow5wSsMNFO-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KPyCKno11Oow5wSsMNFO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-3" target="KPyCKno11Oow5wSsMNFO-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6070" y="1810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-3" value="검색 조건 입력X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5700" y="1790" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KPyCKno11Oow5wSsMNFO-5" value="전체 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6070" y="1790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-8" value="상세 검색 조건" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5700" y="1510.5" width="120" height="40" as="geometry" />
@@ -2349,23 +2348,61 @@
             <mxPoint x="5929.23" y="1659.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KPyCKno11Oow5wSsMNFO-12" value="검색 조건 반영&lt;br&gt;결과 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6070" y="1700" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-13" value="초기화" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5880" y="1520" width="120" height="40" as="geometry" />
+          <mxGeometry x="5880" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KPyCKno11Oow5wSsMNFO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-14" target="KPyCKno11Oow5wSsMNFO-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KPyCKno11Oow5wSsMNFO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-14" target="KPyCKno11Oow5wSsMNFO-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6070" y="1680.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-14" value="검색" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5880" y="1700" width="120" height="40" as="geometry" />
+          <mxGeometry x="5880" y="1660.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-1" target="KPyCKno11Oow5wSsMNFO-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KPyCKno11Oow5wSsMNFO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-2" target="KPyCKno11Oow5wSsMNFO-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-23" target="KPyCKno11Oow5wSsMNFO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-23" target="KPyCKno11Oow5wSsMNFO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-23" target="KPyCKno11Oow5wSsMNFO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-23" target="KPyCKno11Oow5wSsMNFO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-23" target="KPyCKno11Oow5wSsMNFO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KPyCKno11Oow5wSsMNFO-23" target="KPyCKno11Oow5wSsMNFO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-23" value="검색 결과 목록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6090" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-24" value="프로모션 상세 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="1570.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-25" value="복사 등록" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="1629.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-26" value="프로모션 중단" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="1690.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-27" value="선택 삭제" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="1749.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-28" value="노출항목 설정" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="1809.75" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPyCKno11Oow5wSsMNFO-29" value="엑셀 다운로드" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6270" y="1869.75" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
