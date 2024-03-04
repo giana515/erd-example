@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T04:57:53.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OPLSQpKWtwssXL-CCLLf" version="23.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-04T05:30:57.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="es-_hwSkT29XhTQCbhlR" version="23.1.8" type="github" pages="4">
   <diagram id="5mZkaPR8SiRDZWYgbpoz" name="프로모션">
     <mxGraphModel dx="-12165" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -2613,6 +2613,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="72w2uO_yALNxsYTtQI2G-1" value="소비자" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="260" y="670" width="100" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="72w2uO_yALNxsYTtQI2G-10" value="프로모션" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="380" y="670" width="100" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="72w2uO_yALNxsYTtQI2G-11" value="상품" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="500" y="670" width="100" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="72w2uO_yALNxsYTtQI2G-12" value="쿠폰" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="620" y="670" width="100" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="72w2uO_yALNxsYTtQI2G-13" value="결제" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="740" y="670" width="100" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="72w2uO_yALNxsYTtQI2G-14" value="적립금" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="860" y="670" width="100" height="790" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
